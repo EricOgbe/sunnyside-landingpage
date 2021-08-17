@@ -9,7 +9,7 @@ p {
     font-family: 'Barlow', sans-serif;
 }
 .header {
-    background-image: url("./images/desktop/image-header.jpg");  
+    background-image: url("./image-header.jpg");  
   
     height: 100%;
   
@@ -113,7 +113,7 @@ a {
     width: 50vw;
     float: right;
     height: 41.73vw;
-    background: url("./images/desktop/image-photography.jpg");
+    background: url("./image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -121,7 +121,7 @@ a {
 .zes{
     width: 50vw;
     height: 41.73vw;
-    background: url("./images/desktop/image-graphic-design.jpg");
+    background: url("./image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -167,7 +167,7 @@ a {
   .divs1 {
     width: 25vw;
     height: 40vw;
-    background: url("./images/desktop/image-gallery-milkbottles.jpg");
+    background: url("./image-gallery-milkbottles.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -175,7 +175,7 @@ a {
   .divs2 {
     width: 25vw;
     height: 40vw;
-    background: url("./images/desktop/image-gallery-orange.jpg");
+    background: url("./image-gallery-orange.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -184,7 +184,7 @@ a {
   .divs3 {
     width: 25vw;
     height: 40vw;
-    background: url("./images/desktop/image-gallery-cone.jpg");
+    background: url("./image-gallery-cone.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -192,7 +192,7 @@ a {
   .divs4 {
     width: 25vw;
     height: 40vw;
-    background: url("./images/desktop/image-gallery-sugarcubes.jpg");
+    background: url("./image-gallery-sugarcubes.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
